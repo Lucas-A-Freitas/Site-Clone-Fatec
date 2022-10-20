@@ -55,3 +55,34 @@ body{
 footer span{
     color:red
 }
+
+/*Daqui pra baixo são as estilizações de cada pagina*/
+#img1-home{
+    float: left;
+    margin: 1em;
+}
+#img2-home{
+    clear: both;
+    margin-left: 40px;
+
+}
+#main-home{
+    text-align: justify;
+    font-size: 10pt;
+    margin: 1rem;
+    font-weight: 600;
+    line-height: 1.1;
+}
+#letra1-home{
+    margin-left: 50px;
+}
+#lista-home ul li{
+    list-style: disc;
+    text-align: justify;
+    margin-left: 2em;
+    width: 300px;
+    float: left;
+}
+#lista-home{
+    width: 350px;
+}
