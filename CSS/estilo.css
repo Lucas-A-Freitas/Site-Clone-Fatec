@@ -57,6 +57,7 @@ footer span{
 }
 
 /*Daqui pra baixo são as estilizações de cada pagina*/
+/*Home*/
 #img1-home{
     float: left;
     margin: 1em;
@@ -85,4 +86,26 @@ footer span{
 }
 #lista-home{
     width: 350px;
+}
+
+/*Noticias*/
+.noticia-img-p img{
+    width: 75px;
+    margin: 10px;
+    float: left;
+    border: 2px solid black
+}
+.noticia-img-p{
+    border-top: 1px solid rgb(145, 144, 144);
+    text-align: justify;
+    font-size: 8pt;
+    display: flex;
+    align-items: center;
+    justify-content:left;
+    margin: 10px;
+}
+#noticia-home{
+    height: 95%;
+    width: 95%;
+    margin: auto;
 }
