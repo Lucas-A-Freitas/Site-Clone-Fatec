@@ -144,3 +144,92 @@ main img{
     line-height: 1.2;
     font-size: 10pt;
 }
+
+/*Desenvolvimento de Sistemas*/
+#main-5 img{
+    width: 150px;
+    height: 140px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+#main-5 ul{
+    list-style: disc;
+    margin: 20px 0px 20px 100px;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+/*Desenvolvimento de Websites*/
+#main-6 img{
+    width: 120px;
+    height: 120px;
+    margin-left: 50px;
+}
+#main-6 ul{
+    list-style: disc;
+    margin: 40px 0px 40px 60px;
+    font-weight: 700;
+    line-height: 1.3;
+    font-size: 10pt;
+}
+
+/*Contato*/
+
+#main-7{
+    width: 95%;
+    height: 95%;
+    margin-left: 10px;
+}
+#main-7 h1{
+    text-align: center;
+    margin-top: 10px;
+    border-bottom: 2px solid black;
+    font-size: 19pt;
+    font-weight: bolder;
+    padding-bottom: 5px;
+}
+#main-7 p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 10pt;
+    margin-bottom: 20px;
+}
+fieldset{
+    border: 1px solid rgb(133, 8, 8);
+}
+fieldset legend, label{
+    margin: 15px 15px 10px 15px;
+}
+fieldset legend{
+    color: rgb(133, 8, 8);
+    font-size: 12pt;
+    letter-spacing: -1px;
+    font-weight: 600;
+}
+legend{
+    margin-left: 10px;
+}
+
+.fundo{
+    background-color: rgba(210, 210, 210, 0.457);
+    border-right: none;
+    border-bottom: none;
+    border-top: 2px inset rgb(228, 228, 228);
+    border-left: 2px inset rgb(228, 228, 228);
+}
+#dados-solicitaçao{
+    margin-top: 20px;
+    font-size: 10pt;
+    margin-bottom: 20px;   
+}
+#descricao{
+    padding: 28px;
+    padding-right: 300px;
+}
+.geral{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+#assunto{
+    padding-right: 100px;
+}
