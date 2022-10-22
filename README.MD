@@ -1,6 +1,6 @@
 # MOTU systems
 
-## Exercicio de clone do site MMOTU Systems
+## Exercicio de clone do site MOTU Systems
 
  Exercicio passado pelo professor Fernando Tiosso durante a aula de desenvolvimento WEB na FATEC Matão
 
